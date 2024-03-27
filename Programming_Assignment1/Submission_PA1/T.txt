@@ -1,0 +1,10 @@
+salt
+sugar
+milk
+cream
+eggs
+butter
+pint
+teaspoonful
+tablespoonful
+quarter
